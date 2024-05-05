@@ -1,4 +1,4 @@
-public class repository.java
+public class j1.java
 {
     public static void main(String args[])
     {
